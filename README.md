@@ -1,4 +1,4 @@
-# Car_Price_Prediction_Multiple Linear Regression & OLS & RFE 
+# Car Price Prediction Multiple Linear Regression & OLS & RFE 
 Car Price Prediction w/ Multiple Linear Regression
 
 Problem Statement
