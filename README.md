@@ -1,6 +1,9 @@
 # Car Price Prediction Multiple Linear Regression & OLS & RFE 
 Car Price Prediction w/ Multiple Linear Regression
 
+![pexels-pixabay-164634](https://user-images.githubusercontent.com/61653147/220427052-d6312693-c53e-49b8-a3b8-f5001c3bca64.jpg)
+
+
 Problem Statement
 A Chinese automobile company Geely Auto aspires to enter the US market by setting up their manufacturing unit there and producing cars locally to give competition to their US and European counterparts.
 
